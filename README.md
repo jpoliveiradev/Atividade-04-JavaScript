@@ -1,5 +1,5 @@
-# Atividade 02 com JavaScript
-Repositório com Quarta Atividade Escolar com 3 questões de JavaScript
+# Atividade 04 com JavaScript
+Repositório com a Quarta Atividade Escolar com 3 questões de JavaScript
 
 Utilizando os conhecimentos adquiridos referente a lógica de programação, uso de objeto e
 método, formulário, operadores matemáticos, operadores relacionais e estrutura condicional
