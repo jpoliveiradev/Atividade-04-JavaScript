@@ -1,0 +1,18 @@
+body{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 15px;
+    padding: 15px;
+    color: black;
+    font-family: arial;
+    background-color: #808080;
+      
+}
+.botao{
+  cursor: pointer;
+}
+#botao:hover{
+    background-color: #808080;
+}
