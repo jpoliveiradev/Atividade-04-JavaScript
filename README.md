@@ -1,5 +1,5 @@
 # Atividade 04 com JavaScript
-Repositório com a Quarta Atividade Escolar com 3 questões de JavaScript
+Repositório com a Quarta Atividade Escolar com 2 questões de JavaScript e 1 com um fluxograma
 
 Utilizando os conhecimentos adquiridos referente a lógica de programação, uso de objeto e
 método, formulário, operadores matemáticos, operadores relacionais e estrutura condicional
