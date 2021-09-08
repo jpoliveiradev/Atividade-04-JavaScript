@@ -7,6 +7,7 @@ if...else, crie algoritmos em javascript para resolver as seguintes questões:
 
 1°) Receba 6 variáveisreferentes Nome, Sobrenome e quatro notas escolares de um aluno
 e:<br>
+<p>
     a. Mostre o nome do aluno através da concatenação das variáveis;<br> 
     b. Mostre as quatro notas digitadas pelo usuário, considerando a digitação de valores
     decimais;<br>
@@ -23,6 +24,7 @@ e:<br>
     da recuperação;<br>
     i. Mostre a frase “Aluno aprovado”, para valor maior ou igual a 6;<br>
     j. Mostre a frase “Aluno reprovado”, para valor menor que 6;<br>
+ </p>
 
 2°) Construa o fluxograma da questão anterior.<br>
 
@@ -32,6 +34,7 @@ sistema deverá testar se a senha está correta e caso negativo, apresentar a me
 “Senha Incorreta. Inicie novamente o Atendimento” e finalizar.
 Após a digitação da senha correta, o sistema deverá apresentar o seguinte menu de
 opções e solicitar a opção do usuário.<br>
+     <p>
       1- Consultar Saldo. Se o usuário selecionar essa opção, mostrar “Saldo = 1.000,00” <br>
       2- Realizar pagamento. Se o usuário optar essa opção, o sistema deverá pedir o
       código do documento, a data e o valor a ser pago.<br>
@@ -40,3 +43,4 @@ nome do destinatário, a conta, a data e o valor a ser transferido.<br>
       4- Falar com o atendimento. Se o usuário clicar nessa opção, o sistema deve mostrar
 a mensagem “Aguarde o atendimento do consultor”.
 Para outras opções o sistema deve informar “Opção Inválida” e encerrar o Programa.
+    </p>
