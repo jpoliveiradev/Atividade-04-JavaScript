@@ -6,7 +6,7 @@ método, formulário, operadores matemáticos, operadores relacionais e estrutur
 if...else, crie algoritmos em javascript para resolver as seguintes questões:
 
 1°) Receba 6 variáveisreferentes Nome, Sobrenome e quatro notas escolares de um aluno
-e:<br> 
+e:<br>
     a. Mostre o nome do aluno através da concatenação das variáveis;<br> 
     b. Mostre as quatro notas digitadas pelo usuário, considerando a digitação de valores
     decimais;<br>
