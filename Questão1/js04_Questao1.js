@@ -1,5 +1,5 @@
 
-    /*Definições de variaveis*/
+    /*Definições de variaveis*/ 
     var js_nome;
     var js_sobrenome;
     var js_n1;
